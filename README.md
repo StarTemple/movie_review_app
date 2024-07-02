@@ -26,9 +26,6 @@ This project is a Movie Review Web Application where users can read and submit m
 - Express.js
 - MongoDB
 
-## Testing Instructions
-No specific tests provided. You may add tests using Mocha or Jest as needed.
-
 ## Report
 
 ### Design and Coding Choices
