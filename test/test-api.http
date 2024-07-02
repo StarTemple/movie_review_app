@@ -1,0 +1,9 @@
+POST http://localhost:3000/reviews
+Content-Type: application/json
+
+{
+    "title": "The House of Flying Daggers",
+    "author": "Li Feng Peter Wu Wang Bin Zhang Yimou",
+    "rating": 10,
+    "reviewText": "This was a beautiful film with stunning cinematography."
+}
