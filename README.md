@@ -7,7 +7,7 @@ This project is a Movie Review Web Application where users can read and submit m
 1. **Clone the Repository:**
    ```
    git clone <repository_url>
-   cd MovieReviewApp
+   cd move_review_app
    ```
 
 2. **Install Dependencies:**
